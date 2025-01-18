@@ -25,5 +25,4 @@ int main(){
     }
 
     printf("Jolly");
-    return 0;
 }
